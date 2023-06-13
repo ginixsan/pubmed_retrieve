@@ -3,7 +3,6 @@ import re
 import gzip
 import urllib.request
 from pymongo import MongoClient
-import xmltodict
 import argparse
 import ftplib
 import pubmed_parser as pp
