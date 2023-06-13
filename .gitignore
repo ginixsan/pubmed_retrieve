@@ -1,2 +1,3 @@
 /.idea/.gitignore
 run_update.sh
+.vscode/settings.json
